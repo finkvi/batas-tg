@@ -1,0 +1,19 @@
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "Telegram Bot for Battery AutoShop",
+  "main": "tgbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finkvi/batas-tg.git"
+  },
+  "author": "Fink Viktor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finkvi/batas-tg/issues"
+  },
+  "homepage": "https://github.com/finkvi/bata-tgs#readme"
+}
